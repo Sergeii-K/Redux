@@ -1,0 +1,8 @@
+.list {
+    display: flex;
+    columns: row;
+}
+
+.list ul {
+    list-style: none;
+}
